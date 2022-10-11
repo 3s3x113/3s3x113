@@ -2,6 +2,9 @@
   <img src="https://media.giphy.com/media/xUOxfeTpt8PypBKj84/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
+  <div id="viewprof" align="center">
+  <img src="https://komarev.com/ghpvc/?username= 3s3x113&style=flat-square&color=blue" alt=""/>
+</div>
   <a href="https://ru.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
