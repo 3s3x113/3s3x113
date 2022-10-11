@@ -51,7 +51,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/qMXhVB5fd1UQ
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=3s3x113&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 
 
