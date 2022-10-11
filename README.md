@@ -61,3 +61,23 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/qMXhVB5fd1UQ
 ### :ghost: GitHub Profile Trophy :
 [![trophy](https://github-profile-trophy.vercel.app/?username=3s3x113)](https://github.com/3s3x113/github-profile-trophy)
 
+
+
+---
+### :bomb: My Graph :
+[![3s3x113's github activity graph](https://activity-graph.herokuapp.com/graph?username=3s3x113)](https://github.com/3s3x113/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
