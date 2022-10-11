@@ -11,10 +11,10 @@
 </h1>
 </div>
   </div>
-  <a href="https://vk.com/durov">
+  <a href="https://vk.com/vikamrmrmr">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCuSPwPTvhzJ82palqVlNqsw">
+  <a href="https://www.youtube.com/channel/UC78Bq1Up96-G2aicilvLyaA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
