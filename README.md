@@ -22,3 +22,11 @@
   <img src="https://media.giphy.com/media/3o6nULNn5lTC3dggbC/giphy.gif" width="600" height="300"/>
 </div>
 
+### :sleeping:About Me :
+I am a Full Stack Developer <img src="https://media.giphy.com/media/qMXhVB5fd1UQMTjai7/giphy.gif" width="80"> from Moscow.
+
+- :skull: Кайф ты поймала
+
+- :clown_face: Тебе всегда мало
+
+- :brain: Ты не представляешь как мне тебя не хватало
