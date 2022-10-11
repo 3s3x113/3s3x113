@@ -11,8 +11,8 @@
 </h1>
 </div>
   </div>
-  <a href="https://ru.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/durov">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vkontakte Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCuSPwPTvhzJ82palqVlNqsw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
