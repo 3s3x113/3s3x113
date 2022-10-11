@@ -18,4 +18,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6nULNn5lTC3dggbC/giphy.gif" width="600" height="300"/>
+</div>
 
