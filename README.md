@@ -57,12 +57,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/qMXhVB5fd1UQ
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3s3x113)](https://github.com/3s3x113/github-readme-stats)
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=3s3x113)](https://github.com/3s3x113/github-profile-trophy)
-
-
 ---
-### :hammer_and_wrench: GitHub Profile Trophy :
-
+### :ghost: GitHub Profile Trophy :
+[![trophy](https://github-profile-trophy.vercel.app/?username=3s3x113)](https://github.com/3s3x113/github-profile-trophy)
 
